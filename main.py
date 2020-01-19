@@ -77,7 +77,7 @@ def run_program(program):
       function_stack[func].append(line)
     else:
       if prompt[0] == "clr":
-        system("clear")
+        system("cls")
       elif prompt[0] == "slp":
         sleep(int(prompt[1]))
       elif prompt[0] == "log":
@@ -104,7 +104,7 @@ def run_program(program):
           loop += 1
           var_stack[name] += thing + query(loop >= len(prompt), "", " ")
       elif prompt[0] == "rlod":
-        system("clear")
+        system("cls")
         start_Mang()
       elif prompt[0] == "func":
         function_stack[prompt[1]] = []
