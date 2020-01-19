@@ -1,5 +1,5 @@
-from replit import clear
 from time import sleep
+from os import system
 
 var_stack = {}
 function_stack = {}
@@ -77,7 +77,7 @@ def run_program(program):
       function_stack[func].append(line)
     else:
       if prompt[0] == "clr":
-        clear()
+        system("clear")
       elif prompt[0] == "slp":
         sleep(int(prompt[1]))
       elif prompt[0] == "log":
@@ -104,7 +104,7 @@ def run_program(program):
           loop += 1
           var_stack[name] += thing + query(loop >= len(prompt), "", " ")
       elif prompt[0] == "rlod":
-        clear()
+        system("clear")
         start_Mang()
       elif prompt[0] == "func":
         function_stack[prompt[1]] = []
