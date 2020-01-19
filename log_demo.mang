@@ -1,0 +1,3 @@
+log Hi;
+slp 1;
+log That was a 'log' command!;

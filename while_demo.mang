@@ -1,0 +1,9 @@
+var X 9
+var Y 0
+
+func do
+var X - call::X 3
+log call::X
+|
+
+while != call::X call::Y do

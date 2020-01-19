@@ -1,0 +1,4 @@
+log I will go away in 3 seconds;
+slp 3;
+clr;
+log That was a 'clr' command;

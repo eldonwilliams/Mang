@@ -1,0 +1,8 @@
+//This demo shows you how to create a var
+
+var Name John;
+var Age 20;
+
+//And use them
+
+log call::Name is call::Age years old;

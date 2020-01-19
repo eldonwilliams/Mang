@@ -1,0 +1,12 @@
+//The repeat command calls a function the amount of times you say
+//Here is a example
+
+//Here we define a function called 'hi' that says hi to the console
+func hi
+log hi
+|
+
+//And here we tell it to repeat hi 3 times
+repeat 3 hi
+
+//To run this demo type 'run repeat_demo.mang' in your shell

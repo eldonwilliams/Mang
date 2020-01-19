@@ -1,0 +1,17 @@
+//This demo shows you how to use functions
+
+//To define a function type func and then the function name
+
+func Test
+//DO NOT INDENT
+//Other than that write ANY code here you want!
+//Even other functions
+
+log This is a test function
+
+//To end it type |
+|
+
+//Then to run the function type call <FUNCTION NAME>
+
+call Test

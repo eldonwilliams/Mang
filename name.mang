@@ -1,0 +1,3 @@
+log what is your name?
+var Name inp
+log Hi call::Name !

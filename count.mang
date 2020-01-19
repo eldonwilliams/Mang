@@ -1,0 +1,12 @@
+var Count 0
+
+func main ;
+var Count + call::Count 1 ;
+
+log Count: call::Count ;
+
+inp ;
+clr ;
+| ;
+
+repeat 10000 main ;

@@ -1,0 +1,9 @@
+//To perform math in mang it is like a command with a command name and inputs
+//for math problems this is <MATH_SIGN> <INPUT 1> <INPUT 2>
+
+//Here is a example
+
+log + 3 9
+log - 9 3
+log * 3 9
+log / 9 3
