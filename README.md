@@ -26,6 +26,6 @@ Mang 1.5 (Released)
 |
 ```
 
-Not simply type `run <script>`.
+Dont simply type `run <script>`.
 
 For example: `run name.mang`
