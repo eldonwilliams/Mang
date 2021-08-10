@@ -26,6 +26,5 @@ Mang 1.5 (Released)
 |
 ```
 
-Dont simply type `run <script>`.
-
-For example: `run name.mang`
+Running .mang files in mang:
+`run <script>.mand`
