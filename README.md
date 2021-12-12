@@ -1,3 +1,8 @@
+# Update 12/11/2021
+
+Hello! It's been a while since this was updated, and it's likely it never will be, however, I want to keep this because I made a programming language all this time ago!
+I think this is just really cool ig. Don't think this represents my current ability.
+
 # Mang
 
 Mang is a NEW Coding language.
